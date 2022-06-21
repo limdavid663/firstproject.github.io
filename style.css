@@ -1,0 +1,67 @@
+*, html {
+    margin:0;
+    padding:0; 
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none; 
+}
+
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0 10px
+}
+
+#blue{
+    font-weight: bold;
+    color: blue;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin: 26.56px 0;
+}
+
+.sub-title{
+    margin: 16px 0;
+}
+
+.header-title{
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1ivbroe*_ga*MTcyMDk4NTUxMy4xNjQzMzkzNjU5*_ga_3LRZM6TM9L*MTY1NTY5OTA5My40Mi4xLjE2NTU3MDE2ODYuMzE.");
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin: 67px 0;
+}
+
+.title1{
+    background-color: mediumspringgreen;
+}
+
+.image1{
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/hacksaw.jpeg?_gl=1*1svz17f*_ga*MTcyMDk4NTUxMy4xNjQzMzkzNjU5*_ga_3LRZM6TM9L*MTY1NTY5OTA5My40Mi4xLjE2NTU3MDE2ODYuMzE.");
+    width: 250px;
+    height: 250px;
+}
+
+.title2{
+    background-color: lightcoral;
+}
+
+.image2{
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/frames.jpeg?_gl=1*1cnsys1*_ga*MTcyMDk4NTUxMy4xNjQzMzkzNjU5*_ga_3LRZM6TM9L*MTY1NTY5OTA5My40Mi4xLjE2NTU3MDE2ODYuMzE.");
+    width: 250px;
+    height: 250px;    
+}
+
+.title3{
+    background-color: skyblue;
+}
+
+.image3{
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/finnish.jpeg?_gl=1*uv01aj*_ga*MTcyMDk4NTUxMy4xNjQzMzkzNjU5*_ga_3LRZM6TM9L*MTY1NTY5OTA5My40Mi4xLjE2NTU3MDE2ODYuMzE.");
+    width: 250px;
+    height: 250px;    
+}
